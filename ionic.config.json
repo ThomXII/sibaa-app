@@ -1,0 +1,7 @@
+{
+  "name": "sibaa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
