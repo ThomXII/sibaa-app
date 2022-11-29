@@ -1,0 +1,12 @@
+
+ion-content{
+  font-size:medium;
+  font-style: italic;
+}
+ion-content::part(background) {
+  background:rgb(0, 29, 15);
+}
+
+ion-content::part(scroll) {
+  color: #fff;
+}
